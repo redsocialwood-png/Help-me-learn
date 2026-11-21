@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Share something I can try / Compartilhe algo para eu tentar
+    url: https://github.com/redsocialwood-png/Help-me-learn/discussions
+    about: Tips, concepts, and unfinished projects go in Discussions.
