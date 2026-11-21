@@ -2,7 +2,7 @@
 
 **Learn programming together, one small challenge at a time.** Try the [first challenge](#first-challenge) or [suggest something to learn](#share-something-i-can-try).
 
-I'm Toledo. I've worked on projects like WinDot, Dot Com, AndroBits, and Infall. I'm making Help me learn my only public repository so I can learn programming with others. I want to try things hands-on, talk with other programmers about how they approach problems, and share what I learn along the way.
+I'm Toledo. I've worked on projects like WinDot, Dot Com, AndroBits, and Infall (Currently private as they are in progress). I'm making "Help me learn" my only public repository so I can learn programming with others. I want to try things hands-on, talk with other programmers about how they approach problems, and share what I learn along the way.
 
 If you found this because you're learning too, you're welcome to try the same exercises, share what you discover, and ask questions of your own.
 
