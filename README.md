@@ -30,9 +30,18 @@ Use a pull request to suggest changes to this repository. I'll review the propos
 |---|-----------|---------|
 | 01 | [Messy list to Markdown checklist](challenges/01-checklist/) | strings, loops, edge cases |
 
+**Status:** Challenge 01 is available and open to solutions. Challenge 02 will be added when it is ready.
+
 Each challenge has a `solutions/` folder. Pick any language, add one file, open a pull request, and tell us one thing you figured out and one thing you'd like feedback on. A reference Python solution with tests shows the format.
 
 Have an idea for challenge 02? Open a "Challenge idea" issue.
+
+## How to learn here
+
+1. Try the challenge by yourself before reading the reference solution.
+2. Look for a hint, or ask a question, if you get stuck.
+3. Compare approaches after you reach a working solution.
+4. Share what you learned and what part you would improve.
 
 ## Credits
 
