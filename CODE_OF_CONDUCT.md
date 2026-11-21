@@ -18,8 +18,8 @@ This is a place to learn. Everyone here is allowed to not know things.
 
 ## Enforcement
 
-The maintainer, Toledo, may edit, hide, or remove comments, issues, and pull requests that break these rules, and may block people who repeat it. To report a problem, message the maintainer through the GitHub profile (@redsocialwood-png).
+The maintainer, Toledo, may edit, hide, or remove comments, issues, and pull requests that break these rules, and may block people who repeat it. To report a problem, use GitHub's "Report content" option (in the "..." menu of a comment, issue, or pull request), or mention @redsocialwood-png on the thread.
 
 ## Português
 
-Este é um lugar para aprender. Todo mundo aqui pode não saber as coisas. Faça perguntas (inclusive as "básicas"), dê feedback sobre o código e não sobre a pessoa, dê crédito a quem e ao que ajudou (inclusive IA), e respeite o ritmo e o nível dos outros. Não vale zombar, assediar, discriminar, expor dados privados ou fazer spam. O mantenedor pode editar ou remover conteúdo que quebre essas regras e bloquear quem repetir.
+Este é um lugar para aprender. Todo mundo aqui pode não saber as coisas. Faça perguntas (inclusive as "básicas"), dê feedback sobre o código e não sobre a pessoa, dê crédito a quem e ao que ajudou (inclusive IA), e respeite o ritmo e o nível dos outros. Não vale zombar, assediar, discriminar, expor dados privados ou fazer spam. O mantenedor pode editar ou remover conteúdo que quebre essas regras e bloquear quem repetir. Para denunciar, use "Report content" do GitHub (menu "..." do comentário, issue ou pull request) ou mencione @redsocialwood-png na conversa.

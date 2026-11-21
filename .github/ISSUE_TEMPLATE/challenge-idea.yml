@@ -1,6 +1,6 @@
 name: Challenge idea
 description: Suggest a small exercise for the group
-labels: ["enhancement"]
+labels: ["challenge-idea"]
 body:
   - type: textarea
     id: idea

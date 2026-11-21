@@ -9,4 +9,6 @@ def checklist(text):
 
 
 if __name__ == "__main__":
-    print("\n".join(checklist(sys.stdin.read())))
+    output = "\n".join(checklist(sys.stdin.read()))
+    if output:  # print nothing at all when the input has no items
+        print(output)
