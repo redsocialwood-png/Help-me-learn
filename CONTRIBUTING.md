@@ -16,7 +16,7 @@ Thanks for being here. This is a beginner-friendly repo: you do not need to be a
 1. Open the challenge's `solutions/` folder on GitHub and click **Add file > Create new file**.
 2. Name it `<language>-<github-username>.<ext>`, for example `javascript-ana123.js`. Using your GitHub username avoids name clashes.
 3. Put a short comment at the top: what you learned and one thing you'd like feedback on.
-4. Make sure it matches the examples in the challenge README. A test is a bonus, not a requirement.
+4. Read input from standard input and print to standard output, so it matches the challenge's `examples/`. Python and JavaScript solutions are checked automatically on your pull request; you can run the same check with `python scripts/check_solutions.py`. Other languages are welcome and reviewed by hand.
 5. Click **Commit changes**, choose "Create a new branch", then **Propose changes** to open the pull request.
 
 **With git:** fork the repo, create a branch (`git checkout -b my-solution`), add the same file, and open a pull request using the template.
@@ -46,7 +46,7 @@ Obrigado por vir. Aqui não precisa ser especialista nem escrever muito código.
 1. Abra a pasta `solutions/` do desafio no GitHub e clique em **Add file > Create new file**.
 2. Nomeie o arquivo `linguagem-usuario-github.ext`, por exemplo `python-ana123.py`. O usuário do GitHub evita nomes repetidos.
 3. Escreva um comentário curto no topo: o que você aprendeu e uma coisa sobre a qual quer feedback.
-4. Confira se bate com os exemplos do README do desafio. Teste é bônus.
+4. Leia da entrada padrão e imprima na saída padrão, para bater com a pasta `examples/` do desafio. Soluções em Python e JavaScript são conferidas sozinhas no pull request; para conferir antes, rode `python scripts/check_solutions.py`. Outras linguagens também valem e são revisadas à mão.
 5. Clique em **Commit changes**, escolha "Create a new branch" e depois **Propose changes** para abrir o pull request.
 
 **Com git:** faça um fork, crie uma branch, adicione o mesmo arquivo e abra um pull request com o template.

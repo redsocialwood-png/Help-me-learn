@@ -9,8 +9,12 @@
 | # | Challenge | Teaches |
 |---|-----------|---------|
 | 01 | [Messy list to Markdown checklist](challenges/01-checklist/) | strings, loops, edge cases |
+| 02 | [Top 3 words](challenges/02-word-count/) | dictionaries, sorting |
+| 03 | [Balanced brackets](challenges/03-brackets/) | stacks, loops |
+| 04 | [Expense totals](challenges/04-expenses/) | parsing, dictionaries, money and decimals |
+| 05 | [Caesar cipher](challenges/05-caesar/) | command-line arguments, character codes, modulo |
 
-Each challenge takes about 30 minutes and has a `solutions/` folder. Add one file, open a pull request, and tell us one thing you figured out and one thing you'd like feedback on. A reference Python solution with tests shows the format. More challenges are coming: have an idea? Open a "Challenge idea" issue.
+Each challenge takes about 30 minutes and has a `solutions/` folder. Add one file, open a pull request, and tell us one thing you figured out and one thing you'd like feedback on. Your program reads standard input and prints to standard output; Python and JavaScript solutions are checked automatically against the challenge's examples. A reference Python solution shows the format. Have an idea for the next one? Open a "Challenge idea" issue.
 
 ## How to learn here
 

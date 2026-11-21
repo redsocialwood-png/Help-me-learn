@@ -9,8 +9,12 @@
 | # | Desafio | Ensina |
 |---|---------|--------|
 | 01 | [Lista bagunçada em checklist Markdown](challenges/01-checklist/) | strings, laços, casos de borda |
+| 02 | [As 3 palavras mais frequentes](challenges/02-word-count/) | dicionários, ordenação |
+| 03 | [Parênteses balanceados](challenges/03-brackets/) | pilhas, laços |
+| 04 | [Total de gastos](challenges/04-expenses/) | leitura de dados, dicionários, dinheiro e decimais |
+| 05 | [Cifra de César](challenges/05-caesar/) | argumentos de linha de comando, códigos de caracteres, resto da divisão |
 
-Cada desafio leva cerca de 30 minutos e tem uma pasta `solutions/`. Adicione um arquivo, abra um pull request e conte uma coisa que descobriu e uma sobre a qual quer feedback. Tem uma solução de referência em Python com testes para mostrar o formato. Mais desafios virão: tem uma ideia? Abra uma issue "Challenge idea".
+Cada desafio leva cerca de 30 minutos e tem uma pasta `solutions/`. Adicione um arquivo, abra um pull request e conte uma coisa que descobriu e uma sobre a qual quer feedback. Seu programa lê a entrada padrão e imprime na saída padrão; soluções em Python e JavaScript são conferidas sozinhas contra os exemplos do desafio. Tem uma solução de referência em Python para mostrar o formato. Tem uma ideia para o próximo? Abra uma issue "Challenge idea".
 
 ## Como aprender aqui
 
