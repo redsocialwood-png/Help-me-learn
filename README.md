@@ -2,7 +2,7 @@
 
 **Learn programming together, one small challenge at a time.** Try the [first challenge](#first-challenge) or [suggest something to learn](#share-something-i-can-try).
 
-I'm Luca. I've worked on projects like WinDot, Dot Com, AndroBits, and Infall. I'm making Help me learn my only public repository so I can learn programming with others. I want to try things hands-on, talk with other programmers about how they approach problems, and share what I learn along the way.
+I'm Toledo. I've worked on projects like WinDot, Dot Com, AndroBits, and Infall. I'm making Help me learn my only public repository so I can learn programming with others. I want to try things hands-on, talk with other programmers about how they approach problems, and share what I learn along the way.
 
 If you found this because you're learning too, you're welcome to try the same exercises, share what you discover, and ask questions of your own.
 
@@ -47,4 +47,4 @@ Try an input with only blank lines. It should print nothing. If you try it, shar
 
 ## Credits
 
-Luca created and maintains this project. Codex helped draft this README. I'll credit community members and any help from Codex, Claude Code, or Gemini in the discussion or pull request where they contributed.
+Toledo created and maintains this project. Codex helped draft this README. I'll credit community members and any help from Codex, Claude Code, or Gemini in the discussion or pull request where they contributed.
