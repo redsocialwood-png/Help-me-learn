@@ -1,0 +1,26 @@
+name: Challenge idea
+description: Suggest a small exercise for the group
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: The exercise
+      description: What should people build? Keep it small (about 30 minutes).
+    validations:
+      required: true
+  - type: textarea
+    id: example
+    attributes:
+      label: Example input and expected output
+    validations:
+      required: true
+  - type: textarea
+    id: learn
+    attributes:
+      label: What does it teach?
+      description: Which concept or skill (loops, strings, tests, ...)?
+  - type: textarea
+    id: edge
+    attributes:
+      label: An edge case worth trying
