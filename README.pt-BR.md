@@ -30,7 +30,16 @@ Para sugerir mudanças, use um pull request. Os passos estão em [CONTRIBUTING](
 |---|---------|--------|
 | 01 | [Lista bagunçada em checklist Markdown](challenges/01-checklist/) | strings, laços, casos de borda |
 
+**Status:** o desafio 01 está disponível e recebendo soluções. O desafio 02 será publicado quando estiver pronto.
+
 Cada desafio tem uma pasta `solutions/`. Escolha qualquer linguagem, adicione um arquivo, abra um pull request e conte uma coisa que descobriu e uma sobre a qual quer feedback. Tem uma ideia para o desafio 02? Abra uma issue "Challenge idea".
+
+## Como aprender aqui
+
+1. Tente resolver o desafio sozinho antes de consultar a solução de referência.
+2. Procure uma dica ou faça uma pergunta se travar.
+3. Compare abordagens depois de chegar a uma solução funcional.
+4. Conte o que aprendeu e o que gostaria de melhorar.
 
 ## Créditos
 

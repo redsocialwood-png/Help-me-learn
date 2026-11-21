@@ -1,5 +1,7 @@
 import importlib.util
 import pathlib
+import subprocess
+import sys
 import unittest
 
 spec = importlib.util.spec_from_file_location(
@@ -22,6 +24,20 @@ class ChecklistTest(unittest.TestCase):
 
     def test_single_item_no_newline(self):
         self.assertEqual(mod.checklist("one"), ["- [ ] one"])
+
+    def test_command_line_input(self):
+        result = subprocess.run(
+            [sys.executable, pathlib.Path(__file__).with_name("python-example.py")],
+            input="read a file\n\n write a test ",
+            capture_output=True,
+            text=True,
+            check=True,
+        )
+
+        self.assertEqual(
+            result.stdout,
+            "- [ ] read a file\n- [ ] write a test\n",
+        )
 
 
 if __name__ == "__main__":
