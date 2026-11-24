@@ -39,6 +39,17 @@ class ChecklistTest(unittest.TestCase):
             "- [ ] read a file\n- [ ] write a test\n",
         )
 
+    def test_command_line_blank_input_prints_nothing(self):
+        result = subprocess.run(
+            [sys.executable, pathlib.Path(__file__).with_name("python-example.py")],
+            input="\n  \n\t\n",
+            capture_output=True,
+            text=True,
+            check=True,
+        )
+
+        self.assertEqual(result.stdout, "")
+
 
 if __name__ == "__main__":
     unittest.main()

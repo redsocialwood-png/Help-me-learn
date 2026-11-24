@@ -1,4 +1,4 @@
-blank_issues_enabled: true
+blank_issues_enabled: false
 contact_links:
   - name: Share something I can try / Compartilhe algo para eu tentar
     url: https://github.com/redsocialwood-png/Help-me-learn/discussions

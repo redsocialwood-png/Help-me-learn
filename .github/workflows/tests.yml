@@ -17,3 +17,5 @@ jobs:
           python-version: "3.12"
       - name: Run challenge tests
         run: python -m unittest discover -s challenges/01-checklist/solutions -p "test_*.py"
+      - name: Check every solution against the examples
+        run: python scripts/check_solutions.py
